@@ -12,3 +12,4 @@ int main()
     << std::accumulat(std::istream_iterator<double>(std::cin),
     4444444444444444444444
     6666666666666666666
+    777777777777777777777
