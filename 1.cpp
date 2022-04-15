@@ -8,3 +8,5 @@ int main()
 {
   std::cout << "Enter numeric values separated by spaces and enter Ctrl+Z to end:" << std::endl;
 
+  std::cout << "\nThe sum of the values you entered is "
+    << std::accumulate(std::istream_iterator<double>(std::cin),
