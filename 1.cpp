@@ -11,4 +11,4 @@ int main()
   std::cout << "\nThe sum of the values you entered is 
     << std::accumulat(std::istream_iterator<double>(std::cin),
     4444444444444444444444
-    
+    6666666666666666666
